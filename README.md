@@ -168,7 +168,7 @@ An AI-based application designed to simplify content creation through intelligen
   </a>
 
   <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-  <a href="https://www.linkedin.com/in/mukund-verma27">
+  <a href="https://www.linkedin.com/in/mukundverma27">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
